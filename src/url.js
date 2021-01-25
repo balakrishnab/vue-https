@@ -1,4 +1,4 @@
 const URL = {
-    url: "https://vue-spa-16a06-default-rtdb.firebaseio.com/surveys.json"
+    url: "Please add your http url from the google firabse project"
 }
 export default URL;
